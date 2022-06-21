@@ -1,5 +1,4 @@
 name: Feature Request
-description: Suggest an idea for the game
 labels: ["game"]
 body:
   attributes:
